@@ -40,7 +40,7 @@ The application includes a CarController class with a createCar method that vali
 - The CheckCaseValidator class implements the logic to validate the case mode of the licensePlate field.
 - The @CheckCase annotation specifies the enum class CaseMode that defines the valid case modes for the licensePlate field.
 
-###Configuration
+### Configuration
 - The application uses a MessageSourceConfig class to configure meThe messages.properties file contains validation messages for custom annotations.
 
 ### Docker build
